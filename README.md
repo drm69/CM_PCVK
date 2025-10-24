@@ -16,10 +16,10 @@ Proses linear brightness–contrast dilakukan terlebih dahulu untuk menormalkan 
 
 | Metode Pra-pemrosesan          | PSNR terhadap Citra Asli Terang | Keterangan                                |
 | ------------------------------ | ------------------------------- | ----------------------------------------- |
-| **Linear Brightness–Contrast** | **32.45 dB**                    | Noise rendah, warna tetap natural         |
+| **Linear Brightness–Contrast** | **33.63 dB**                    | Noise rendah, warna tetap natural         |
 | **Log Brightness**             | **28.72 dB**                    | Detail sedikit menurun, kontras lembut    |
-| **Linear + Dithering (5-bit)** | **30.81 dB**                    | Gradasi halus, detail pola tetap terlihat |
-| **Log + Dithering (5-bit)**    | **26.54 dB**                    | Warna lebih rata namun detail berkurang   |
+| **Linear + Dithering (5-bit)** | **32.39 dB**                    | Gradasi halus, detail pola tetap terlihat |
+| **Log + Dithering (5-bit)**    | **23.99 dB**                    | Warna lebih rata namun detail berkurang   |
 
 3. Rekomendasi Metode Peningkatan Kualitas Data
 
